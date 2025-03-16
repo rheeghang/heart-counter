@@ -21,7 +21,7 @@ function App() {
           marginBottom: "0px",
           padding: "10px 20px",
           border: "solid black 3px",
-          width: "100vw",
+          width: "50vw",
           cursor: "pointer",
           background: "white"
         }}
