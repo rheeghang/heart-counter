@@ -9,7 +9,7 @@ function App() {
         <title>counter </title>
       <h1 
         style={{
-          fontSize: "150px"
+          fontSize: "200px"
         }}
       >
         {count}
