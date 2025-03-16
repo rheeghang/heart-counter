@@ -17,11 +17,11 @@ function App() {
       <button 
         onClick={() => setCount(count + 1)}
         style={{
-          fontSize: "150px",
+          fontSize: "200px",
           marginBottom: "0px",
           padding: "10px 20px",
           border: "solid black 3px",
-          width: "60ew",
+          width: "100vw",
           cursor: "pointer",
           background: "white"
         }}
